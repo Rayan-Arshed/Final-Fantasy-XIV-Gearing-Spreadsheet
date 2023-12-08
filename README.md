@@ -14,9 +14,12 @@ As I like to gear up every class I can in this game, I needed my spreadsheet to 
 ![image](https://github.com/Rayan-Arshed/Final-Fantasy-XIV-Gearing-Spreadsheet/assets/95011650/daf8f5ff-0ab6-466d-bbbf-e551520392d1)
 ![image](https://github.com/Rayan-Arshed/Final-Fantasy-XIV-Gearing-Spreadsheet/assets/95011650/e104fd9a-d037-42df-8add-e2f37be7cf64)
 
-## Link to the spreadsheet:
-
+## Links to the spreadsheet:
+### Published version of spreadsheet for viewing:
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSZbGF3u9nodD5QuckZIIwsvWU92qPfDJMCBwkduWy0KatfEq_rEjpTU4IcR4rTLzpdM0vXWV6AeCZZ/pubhtml
+
+### Full version which a copy can be made of to edit and experiment with:
+https://docs.google.com/spreadsheets/d/1LQQfSkwjb_yJeFGPrVYFs3CORbIiONfrjI9UCCRTILk/edit?usp=sharing 
 
 ## Screenshots and Explanations of Spreadsheet:
 
